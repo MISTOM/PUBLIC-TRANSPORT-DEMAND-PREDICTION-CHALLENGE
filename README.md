@@ -35,7 +35,7 @@ Variables Description
 
 ### How to Run
 1. Clone this repo into your machine
-2. Ensure you have node version 16 or higher
+2. Ensure you have node version 14 or higher
 2. run `npm install` to install the dependancies
 3. To run the First Challenge run `npm run start1`
     + to run the Second Challenge run `npm run start2`
