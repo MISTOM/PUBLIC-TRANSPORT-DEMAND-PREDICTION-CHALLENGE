@@ -29,3 +29,5 @@ content.filter(el => {
 })
 ```
 
+Probability (event) = number of favourable outcomes/number of events in the sample space
+Therefore, Probability that a passenger travelling from Kijauri will take a shuttle if they depart before 7:30 = number of Kijauri tickets before 7:30 of **car_type** shuttle / total number of Kijauri Tickets before 7:30 of all **car_type**s

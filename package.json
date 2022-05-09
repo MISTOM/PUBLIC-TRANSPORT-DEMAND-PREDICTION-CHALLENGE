@@ -4,7 +4,8 @@
   "description": "Find Usefull information from data",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start1": "node Challenge1/main.js",
+    "start2": "node Challenge2/main.js"
   },
   "author": "KIGARDE THOMAS",
   "license": "MIT",

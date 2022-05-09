@@ -33,13 +33,10 @@ fs.createReadStream('train_revised.csv').pipe(csv({}))
         const sundayRidesArr = content.filter((el)=>{
             return formatGetDay(el.travel_date) == 3
         })
-        console.log('SUNDAY ROUTES:',sundayRidesArr.length)
 
         for (let i of sundayRidesArr){
             travelFrom.add(i['travel_from'])
         }
-
-        console.log('TRAVEL FROM SET:', travelFrom)
         for (let i of travelFrom) {
             for (let j of sundayRidesArr){
                 if (j.travel_from === i){
@@ -48,7 +45,7 @@ fs.createReadStream('train_revised.csv').pipe(csv({}))
                 }
             }
         }
-        console.log(sortObjByValue(occourences))
+        console.dir(occourences)
         console.log('TOP 7 MOST TRAVELED ROUTES TO NAIROBI:\n',
             Object.keys(sortObjByValue(occourences)).slice(0,7))
     }) 
