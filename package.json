@@ -1,0 +1,14 @@
+{
+  "name": "zindi_traffic_challange",
+  "version": "1.0.0",
+  "description": "Find Usefull information from data",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KIGARDE THOMAS",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
