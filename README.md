@@ -31,4 +31,28 @@ Variables Description
 - **travel_from**: town from which ride originated
 - **travel_to**: destination of ride. All rides are to Nairobi.
 - **car_type**: vehicle type (shuttle or bus)
-max_capacity: number of seats on the vehicle
+- max_capacity: number of seats on the vehicle
+
+### How to Run
+1. Clone this repo into your machine
+2. Ensure you have node version 16 or higher
+2. run `npm install` to install the dependancies
+3. To run the First Challenge run `npm run start1`
+    + to run the Second Challenge run `npm run start2`
+```Bash
+-> % npm run start1
+> node Challenge2/main.js
+
+TOP 7 MOST TRAVELED ROUTES TO NAIROBI:
+ [
+  'Kisii',    'Migori',
+  'Homa Bay', 'Sirare',
+  'Rongo',    'Kehancha',
+  'Awendo'
+]
+-> %
+-> % npm run start2
+> node Challenge2/main.js
+
+The Probability of a passenger travelling from Kijauri will take a shuttle and depart before 7:30 is 53%
+```
