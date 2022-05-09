@@ -26,7 +26,7 @@ const sortObjByValue = (object) => {
    return Object.fromEntries(Object.entries(object).sort(([,a], [,b]) => b - a))
 }
 
-fs.createReadStream('test.csv').pipe(csv({}))
+fs.createReadStream('train_revised.csv').pipe(csv({}))
     .on('data', data => {
         content.push(data)
     })
@@ -50,6 +50,7 @@ fs.createReadStream('test.csv').pipe(csv({}))
                 }
             }
         }
+        console.log(sortObjByValue(occourences))
         console.log('TOP 7 MOST TRAVELED ROUTES TO NAIROBI:\n',
             Object.keys(sortObjByValue(occourences)).slice(0,7))
     })
