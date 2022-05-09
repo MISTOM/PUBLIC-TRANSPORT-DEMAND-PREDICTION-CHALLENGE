@@ -8,4 +8,93 @@ ride_id,seat_number,payment_method,payment_receipt,travel_date,travel_time,trave
 5777,14A,Mpesa,MZHGDGS6QZ,27-11-17,7:10,Homa Bay,Nairobi,Bus,49
 5778,25,Mpesa,MYVTYFNXDZ,27-11-17,7:12,Migori,Nairobi,Bus,49
 5778,21B,Mpesa,TE1WYK1NYE,27-11-17,7:12,Migori,Nairobi,Bus,49
-5778,21B,Mpesa,TE1WYK1NYE,27-11-17,7:12,mombasa,Nairobi,Bus,49
+5781,22A,Mpesa,VGG7Q3MVJX,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,18B,Mpesa,YJ7JFHOGKA,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,17B,Mpesa,4JQOSC881A,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5784,1X,Mpesa,3OPU23FHRB,20-04-18,5:10,Kisii,Nairobi,shuttle,11
+5789,1X,Mpesa,BPRX4UMFFN,20-04-18,9:50,Kisii,Nairobi,shuttle,11
+5778,3A,Mpesa,JDD4ZL64LP,27-11-17,7:12,Migori,Nairobi,Bus,49
+5790,1B,Mpesa,DC8ABRSXXK,20-04-18,7:06,Kisii,Nairobi,Bus,49
+5791,1,Mpesa,HGQURN0SZS,20-04-18,6:00,Kisii,Nairobi,shuttle,11
+5792,1,Mpesa,8D9V8HK2FC,20-04-18,5:50,Kisii,Nairobi,shuttle,11
+5793,1,Mpesa,TTZQDYZHAB,20-04-18,10:58,Kisii,Nairobi,shuttle,11
+5790,4A,Mpesa,F8VBKYCXPL,20-04-18,7:06,Kisii,Nairobi,Bus,49
+5794,1,Mpesa,ETNVCDEZLR,20-04-18,6:50,Kisii,Nairobi,shuttle,11
+5781,18A,Mpesa,KP4YUALFXF,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5778,23A,Mpesa,YZJOJQ3NA3,27-11-17,7:12,Migori,Nairobi,Bus,49
+5795,1,Mpesa,VIRXVJUIYX,20-04-18,5:30,Kisii,Nairobi,shuttle,11
+5796,5,Mpesa,9CSSSQN2TN,20-04-18,6:40,Kisii,Nairobi,shuttle,11
+5796,1,Mpesa,BC0SCWB6NU,20-04-18,6:40,Kisii,Nairobi,shuttle,11
+5794,5,Mpesa,RKP8WWJZWH,20-04-18,6:50,Kisii,Nairobi,shuttle,11
+5797,16B,Mpesa,PAHCAZCCYV,27-11-17,7:06,Keroka,Nairobi,Bus,49
+5798,8,Mpesa,E9VOECFN3N,20-04-18,9:10,Kisii,Nairobi,shuttle,11
+5797,15B,Mpesa,WAXDMD6UAN,27-11-17,7:06,Keroka,Nairobi,Bus,49
+5800,1X,Mpesa,CIBMZGHZMB,19-04-18,5:00,Kisii,Nairobi,shuttle,11
+5801,10,Mpesa,850RJSQX3R,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5781,19A,Mpesa,FQCTDRN1LT,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5802,3,Mpesa,VA9WZVBIKT,27-11-17,10:52,Keroka,Nairobi,shuttle,11
+5802,1X,Mpesa,KOE16REETR,27-11-17,10:52,Keroka,Nairobi,shuttle,11
+5801,9,Mpesa,ODECBCFRYU,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,8,Mpesa,ORNBOX9AWQ,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5800,1,Mpesa,CKC15RQNWJ,19-04-18,5:00,Kisii,Nairobi,shuttle,11
+5801,7,Mpesa,4KQ16PRWJW,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5802,9,Mpesa,Z80X8YLAAD,27-11-17,10:52,Keroka,Nairobi,shuttle,11
+5801,6,Mpesa,POKZIETAKP,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,5,Mpesa,PS254MLKFP,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,4,Mpesa,EVVTXE1EWL,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5803,10,Mpesa,YT1MAORM4I,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5801,3,Mpesa,RIYKNYRA4R,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,2,Mpesa,G9OZFJY4NC,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,1,Mpesa,OOTYQP3TIJ,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5801,1X,Mpesa,TBJMRMKQLJ,19-04-18,5:20,Kisii,Nairobi,shuttle,11
+5803,7,Mpesa,HL2AXIBBLE,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5781,20A,Mpesa,LLYH4A55XX,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5803,9,Mpesa,713WAFLVIH,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5781,21B,Mpesa,N8WSXZIJXH,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5804,7,Mpesa,KYTDYIPMAM,27-11-17,10:50,Keroka,Nairobi,shuttle,11
+5803,8,Mpesa,9ZGZK4I0AC,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,5,Mpesa,DQTIQCNWYK,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,6,Mpesa,76B7T8OKBP,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,3,Mpesa,0KAQ3YNL3S,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,4,Mpesa,VOOQFZBOMR,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,1,Cash,MDJ2WT47WI,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5803,2,Mpesa,UKQB3YEGU4,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5777,15B,Mpesa,7C7P3D5AJQ,27-11-17,7:10,Homa Bay,Nairobi,Bus,49
+5803,1X,Mpesa,PSRDQX9ODU,19-04-18,5:10,Kisii,Nairobi,shuttle,11
+5777,16B,Mpesa,P013NWHQID,27-11-17,7:10,Homa Bay,Nairobi,Bus,49
+5778,9A,Mpesa,F7JWUFQ6SD,27-11-17,7:12,Migori,Nairobi,Bus,49
+5781,22B,Mpesa,DH4N6WAAWO,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,25,Mpesa,0JQ0ZZLUMI,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,23B,Mpesa,IOEJGXJ3HJ,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,24A,Mpesa,DP7LOX778I,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5808,2B,Mpesa,2LUZM25U6P,19-04-18,7:06,Kisii,Nairobi,Bus,49
+5808,1B,Mpesa,787CTFABOV,19-04-18,7:06,Kisii,Nairobi,Bus,49
+5809,1,Mpesa,H4PDSUYGWF,19-04-18,10:51,Kisii,Nairobi,shuttle,11
+5810,1,Mpesa,MEH7ZZ4VPS,19-04-18,7:15,Kisii,Nairobi,shuttle,11
+5781,1B,Mpesa,VRNDLYLUG9,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5811,1,Mpesa,XI3UCFVKQE,19-04-18,8:20,Kisii,Nairobi,shuttle,11
+5812,1,Mpesa,FATYHWY6AI,19-04-18,5:30,Kisii,Nairobi,shuttle,11
+5781,2B,Mpesa,MSJ98CJ30N,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5816,1,Mpesa,YXWPDYABRE,18-04-18,5:10,Kisii,Nairobi,shuttle,11
+5797,13B,Mpesa,RY86WHSJSK,27-11-17,7:06,Keroka,Nairobi,Bus,49
+5817,1,Cash,MDI9WF254L,18-04-18,5:00,Kisii,Nairobi,shuttle,11
+5781,9A,Mpesa,HQ8O4RAK8O,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5822,1B,Mpesa,KLMOXO1CVX,18-04-18,7:06,Kisii,Nairobi,Bus,49
+5823,1,Mpesa,PK7FKXJIUF,18-04-18,6:40,Kisii,Nairobi,shuttle,11
+5823,9,Mpesa,YTVSAL2OHD,18-04-18,6:40,Kisii,Nairobi,shuttle,11
+5824,1,Mpesa,6O8NZPYZND,18-04-18,8:20,Kisii,Nairobi,shuttle,11
+5825,1B,Mpesa,AE3D3O6RXV,18-04-18,19:03,Kisii,Nairobi,Bus,49
+5826,1,Mpesa,7XFGXSR0JN,18-04-18,5:30,Kisii,Nairobi,shuttle,11
+5781,24B,Mpesa,67VCHU9I42,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,13B,Mpesa,DAB6BFCPW7,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,14B,Mpesa,BZUTNE0QPS,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5830,1,Mpesa,ZAYOGUSOUP,17-04-18,5:20,Kisii,Nairobi,shuttle,11
+5778,24B,Mpesa,JXQXWWGB36,27-11-17,7:12,Migori,Nairobi,Bus,49
+5778,23B,Mpesa,N1ATVDL4AC,27-11-17,7:12,Migori,Nairobi,Bus,49
+5781,20B,Mpesa,CVEAOTNBHV,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5781,19B,Mpesa,SU5JYZPJKN,27-11-17,7:09,Homa Bay,Nairobi,Bus,49
+5834,1B,Mpesa,AG6X5GA8QE,17-04-18,7:02,Kisii,Nairobi,Bus,49
+5835,1X,Mpesa,QSNDBIXZP3,17-04-18,6:40,Kisii,Nairobi,shuttle,11
+5836,1,Mpesa,3XIDAY71U3,17-04-18,6:50,Kisii,Nairobi,shuttle,11
+5837,3A,Mpesa,TYDXDTBWKH,17-04-18,7:06,Kisii,Nairobi,Bus,49
+5835,1,Mpesa,JOJKPAYLSS,17-04-18,6:40,Kisii,Nairobi,shuttle,11
