@@ -44,12 +44,13 @@ fs.createReadStream('test.csv').pipe(csv({}))
         console.log('TRAVEL FROM SET:', travelFrom)
         for (let i of travelFrom) {
             for (let j of sundayRidesArr){
-                if (j.travel_from == i){
+                if (j.travel_from === i){
                     if (!occourences[i]) occourences[i] = 0;
                     occourences[i]++
                 }
             }
         }
-        console.log('OCCOURENCES:', sortObjByValue(occourences))
+        console.log('TOP 7 MOST TRAVELED ROUTES TO NAIROBI:\n',
+            Object.keys(sortObjByValue(occourences)).slice(0,7))
     })
         
