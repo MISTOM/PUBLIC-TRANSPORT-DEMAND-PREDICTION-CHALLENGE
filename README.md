@@ -4,7 +4,7 @@
 [The public transportation demand prediction dataset](https://zindi.africa/competitions/traffic-jam-predicting-peoples-movement-into-nairobi/data) comprises information about tickets
 purchased from Mobiticket for 14 routes from “up country” into Nairobi for 7 months.
 
-### The challenge is to:
+### The challenge is to: 
 1.  Find the top 7 most travelled routes for a Sunday on average, indicate the average of
 each and rank them in decreasing order.
 2. The probability that a passenger travelling from Kijauri will take a Shuttle if
@@ -33,8 +33,8 @@ Variables Description
 - **car_type**: vehicle type (shuttle or bus)
 max_capacity: number of seats on the vehicle
 ___
-## Challenge 1 
-To start working with the data, we need convert the csv data to JavaScript's array of objects. I used a library called csv-parser
+## [Challenge 1](#challenges) 
+To start working with the data, we need convert the csv data to JavaScript's array of objects. I used a library called [csv-parser](https://www.npmjs.com/package/csv-parser)
 ```json
 "dependencies": {
     "csv-parser": "^3.0.0"
@@ -92,9 +92,9 @@ occourences = {
   'Ndhiwa': 23
 }
 ```
-In order to find the top 7 most travelled routes, first I need to sort the occourences object by value. I do this by first converting the object into array of key/values of the enumerable properties; Now the _Array.sort()_ is available in the array.
+In order to find the top 7 most travelled routes, first I need to sort the occourences object by value. I do this by first converting the object into array of key/values of the enumerable properties; Now the _Array.sort()_ is available in the array. I can also use the slice method to only get the top 7 items.
 ```JavaScript
-const sorted_arr_of_occourences = Object.entries(occourences).sort(([,a], [,b]) => b - a))
+const sorted_arr_of_occourences = Object.entries(occourences).sort(([,a], [,b]) => b - a)).slice(0, 7)
 ```
 To convert the *sorted_arr_of_occourences* back to an object:
 ```JavaScript
@@ -108,14 +108,10 @@ const sorted_occourences = Object.fromEntries(sorted_arr_of_occourences)
   Rongo: 555,
   Kehancha: 293,
   Awendo: 281,
-  Keroka: 174,
-  Kijauri: 127,
-  Nyachenge: 89,
-  Rodi: 59,
-  Mbita: 48,
-  Ndhiwa: 23,
-  Sori: 21,
-  Keumbu: 3
 }
 */
 ```
+Now we have the top 7 most travelled routes
+
+## Challenge 2
+

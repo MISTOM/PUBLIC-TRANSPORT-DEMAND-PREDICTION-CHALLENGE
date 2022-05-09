@@ -27,10 +27,8 @@ const sortObjByValue = (object) => {
 }
 
 fs.createReadStream('train_revised.csv').pipe(csv({}))
-    .on('data', data => {
-        content.push(data)
-    })
-    .on('end', () =>{
+    .on('data', data => content.push(data) )
+    .on('end', () => {
         console.log('CONTENT:', content.length)
         const sundayRidesArr = content.filter((el)=>{
             return formatGetDay(el.travel_date) == 3
@@ -53,5 +51,4 @@ fs.createReadStream('train_revised.csv').pipe(csv({}))
         console.log(sortObjByValue(occourences))
         console.log('TOP 7 MOST TRAVELED ROUTES TO NAIROBI:\n',
             Object.keys(sortObjByValue(occourences)).slice(0,7))
-    })
-        
+    }) 
